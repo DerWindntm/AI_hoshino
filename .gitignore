@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Generated notebook output
+notebook_outputs/
+
+# The full ML dataset is about 2.2 GB and exceeds GitHub's file-size limit.
+data/ml_dataset/ml_dataset.npz
